@@ -34,4 +34,4 @@ Submit a pull request.
 Flutter framework: Flutter
 API used for blog data: Sling Academy API
 
-![Blog Output](https://github.com/Inderajeet/Flutter-Blogs/tree/main/blog_api/blog_output.gif)
+![Blog Output](https://github.com/Inderajeet/Flutter-Blogs/blob/main/blog_api/blog_output.gif)
